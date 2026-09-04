@@ -1,5 +1,5 @@
 package track;
-public class repository{
+public class Repository{
     public static void main(String[] args) {
         // Display the repository cloning status.
         System.out.println("Repository: Cloned Successfully");
