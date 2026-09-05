@@ -1,5 +1,3 @@
-package track;
-
 public class Main {
     public static void main(String[] args) {
         // Display the student's learning track.
