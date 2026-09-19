@@ -3,8 +3,6 @@ public class PRPractice {
         int marks = 68;
         int attendance = 80;
         int practiceDays = 3;
-
-        // Write your code here
         if (marks >= 60 && attendance >= 75) {
             System.out.println("Placement Ready");
             for (int i = 1; i <= practiceDays; i++) {
